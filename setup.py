@@ -1,9 +1,9 @@
 import setuptools
 
 setuptools.setup(
-    name = "Identification Document Validator - roy-mustang",
+    name = "Identity-Validator",
     version = "0.0.1",
-    author = "Erick M. Fana",
+    author = "Erick M. Fana (roy-mustang)",
     author_email = "efanaportes@gmail.com", 
     description = "A simple Identity Document Characters Validator",
     url = "github repository", 
