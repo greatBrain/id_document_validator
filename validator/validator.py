@@ -4,12 +4,12 @@ import re
 
 class Validator:
 
-      def is_valid(self, document, numeration) ->bool:
-          document = document.upper()
+      def is_valid(self, document, numeration) ->bool:    
 
           try:
+             document = document.upper()
              if document=='DNI':
-                if re.match('[0-9]{8}[A-Z]', numeration):
+                if re.match('[0-9]{8}[A-Z]{1}', numeration):
                    return True   
                 return False 
 
