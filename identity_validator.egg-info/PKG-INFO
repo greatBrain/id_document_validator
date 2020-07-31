@@ -2,7 +2,7 @@ Metadata-Version: 1.2
 Name: identity-validator
 Version: 0.0.1
 Summary: A simple Identity Document Characters Validator
-Home-page: github repository
+Home-page: https://github.com/greatBrain/identity-validator
 Author: Erick M. Fana (roy-mustang)
 Author-email: efanaportes@gmail.com
 License: UNKNOWN

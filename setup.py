@@ -5,7 +5,7 @@ setuptools.setup(
     version = "0.0.1",
     author = "Erick M. Fana (roy-mustang)",
     author_email = "efanaportes@gmail.com", 
-    description = "A simple Identity Document Characters Validator",
+    description = "A simple Identity Document Characters Validator (just for DNI and cedula documents)",
     url = "https://github.com/greatBrain/identity-validator", 
     packages = setuptools.find_packages(),
     classifiers=[
