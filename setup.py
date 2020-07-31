@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name = "Identity-Validator",
+    name = "identity-validator",
     version = "0.0.1",
     author = "Erick M. Fana (roy-mustang)",
     author_email = "efanaportes@gmail.com", 
