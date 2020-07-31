@@ -6,7 +6,7 @@ setuptools.setup(
     author = "Erick M. Fana (roy-mustang)",
     author_email = "efanaportes@gmail.com", 
     description = "A simple Identity Document Characters Validator",
-    url = "github repository", 
+    url = "https://github.com/greatBrain/identity-validator.git", 
     packages = setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
