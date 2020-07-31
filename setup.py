@@ -5,7 +5,9 @@ setuptools.setup(
     version = "0.0.1",
     author = "Erick M. Fana (roy-mustang)",
     author_email = "efanaportes@gmail.com", 
-    description = "A simple Identity Document Characters Validator (just for DNI and cedula documents)",
+    description = """A simple Identity Document Characters Validator (just for DNI and cedula identity documents)
+    you use it as follows: from validator.validato import Validator. Then, you call the is_valid method:
+    Validato.is_valid(document_name, document_numeration), this must return or True or False""",
     url = "https://github.com/greatBrain/identity-validator", 
     packages = setuptools.find_packages(),
     classifiers=[
