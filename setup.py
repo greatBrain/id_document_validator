@@ -11,7 +11,7 @@ setuptools.setup(
     url = "https://github.com/greatBrain/identity-validator", 
     packages = setuptools.find_packages(),
     classifiers=[
-        "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 3.7",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
